@@ -1,0 +1,12 @@
+.a1{
+        color: rgb(144, 148, 160);
+        text-align: center;
+        text-decoration: underline;
+        text-shadow: 2px 2px blue;
+
+}
+.a2{
+        text-align: center;
+        color: blueviolet;
+        text-shadow: 2px 2px pink;
+}
